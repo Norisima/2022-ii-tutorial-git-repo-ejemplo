@@ -2,6 +2,7 @@ Línea 1\
 Línea 2\
 Línea 4  
 
+
 # _Perfil académico_ 
 
 **Nombre**: Nora Machuca Mejía  
@@ -38,4 +39,6 @@ Línea 4
 <em>Foto
 
 <img src="foto_pasaporte.jpg" alt="Foto" style="width:100px;height:100px;">
+
+
 
